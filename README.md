@@ -220,40 +220,7 @@ model = LogisticRegression(
 )
 \`\`\`
 
-## 📁 Project Structure
 
-\`\`\`
-fake-news-detector/
-├── app/
-│   ├── api/
-│   │   ├── predict/route.ts
-│   │   ├── train/route.ts
-│   │   └── process-data/route.ts
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   └── ui/
-│       ├── button.tsx
-│       ├── card.tsx
-│       ├── input.tsx
-│       └── textarea.tsx
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── improved_model_training.py
-├── lib/
-│   └── utils.ts
-├── public/
-├── .gitignore
-├── next.config.js
-├── package.json
-├── requirements.txt
-├── tailwind.config.ts
-├── tsconfig.json
-└── README.md
-\`\`\`
 
 
 ## 🧪 Testing
