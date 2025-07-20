@@ -9,7 +9,10 @@ An advanced AI-powered web application that detects fake news using Natural Lang
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
-Screenshot From 2025-07-20 10-49-14.png
+## 🎨 Screenshots
+
+<img width="899" height="717" alt="Screenshot From 2025-07-20 10-49-14" src="https://github.com/user-attachments/assets/8c434ca5-72bf-46bd-8d84-5ccea7f385cd" />
+
 
 ## 🌟 Features
 
